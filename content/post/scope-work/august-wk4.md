@@ -1,7 +1,7 @@
 ---
-title: "August Wk4"
+title: "Work Focus August Wk4"
 date: 2022-08-28T21:13:56+07:00
-draft: true
+draft: false
 ---
 
 We want make business to smoothly & ready to sales with business
@@ -53,3 +53,8 @@ I want focus to "close a material" for Sales
 
 - [ ] Simplamo: Q3 Focus onboarding and close. Q4 Prepare AnyMeta Super App
 
+- [ ] Simplamo: Interview Uses & Review and optimize
+
+**Resources**
+
+- https://github.com/thanhtungdp/react-native-webview-miniapp
